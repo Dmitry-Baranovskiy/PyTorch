@@ -12,3 +12,6 @@ checkpoints/
 # System
 .DS_Store
 __pycache__/
+
+# Google Drive
+.tmp.driveupload
